@@ -13,4 +13,5 @@
 [3주차 과제 DockerFile로 Image 만들기](https://github.com/Hwangwonuk/docker-study/wiki)   
 
 - **4주차**   
-[3주차 스터디 내용 docker-compose](https://github.com/Hwangwonuk/docker-study/wiki)   
+[4주차 스터디 내용 docker-compose](https://github.com/Hwangwonuk/docker-study/wiki)   
+[4주차 과제 docker-compose](https://github.com/Hwangwonuk/docker-study/wiki)   
